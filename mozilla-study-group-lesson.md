@@ -1,4 +1,4 @@
-# “I didn’t know I could know so much! The open science way to do literature research”
+# “I didn’t know I could know so much!" The open science way to do literature research
 *Created by Maxi Schramm & Peter Kraker with input from the whole [Open Knowledge Maps team](http://openknowledgemaps.org/team)*
 
 ### Intro
